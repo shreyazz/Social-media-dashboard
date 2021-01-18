@@ -10,7 +10,7 @@
 <hr>
 
 
-#  Preview Light Mode :
+#  Preview Dark Mode :
 <a href="https://ibb.co/bsMKCNh"><img src="https://i.ibb.co/QP3KTYB/Screenshot-611.png" alt="Screenshot-611" border="0"></a>
 
 <br>
